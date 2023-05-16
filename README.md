@@ -1,7 +1,9 @@
 # Getting Started with Chat App
 
 This project uses React and ChakraUI for the Front-end and Google firebase for back-end.
-It uses google authentication for signing in. Mutiple users can chat in real-time using this application
+It uses google authentication for signing in. Mutiple users can chat in real-time using this application.
+
+## You can use this app by clicking on the [link](https://6463d0e2ebed97005d143d66--creative-biscuit-d03180.netlify.app/) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
