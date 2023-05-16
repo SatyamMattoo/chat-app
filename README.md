@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Chat App
+
+This project uses React and ChakraUI for the Front-end and Google firebase for back-end.
+It uses google authentication for signing in. Mutiple users can chat in real-time using this application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
