@@ -69,9 +69,9 @@ useEffect(() => {
   
 
   return (
-    <Box bg="blue.100">
+    <Box bg="purple.100">
      {
-      (user)? <Container bg="blue.300" height={"100vh"}>
+      (user)? <Container bg="purple.400" height={"100vh"}>
       <VStack h={"full"}>
         <HStack padding="4px" width={"full"}>
           <img
@@ -96,7 +96,7 @@ useEffect(() => {
             style={{
               padding: "5px",
               color: "white",
-              backgroundColor: "rgb(9, 74, 134)",
+              backgroundColor: "rgb(113, 0, 158)",
               borderRadius: "5px",
               width: "20vh",
             }}
@@ -137,7 +137,7 @@ useEffect(() => {
               style={{
                 padding: "7px",
                 color: "white",
-                backgroundColor: "rgb(9, 74, 134)",
+                backgroundColor: "rgb(113, 0, 158)",
                 borderRadius: "5px",
                 margin: "2px",
               }}
